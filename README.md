@@ -1,11 +1,14 @@
 # Amal - Calendar App 
-Requirements to Run: .NET (Microsoft) 7.0+
+Requirements to Run: .NET (Microsoft) 7.0:
 
 https://dotnet.microsoft.com/en-us/download
 
-Visual Basic 2022
+Visual Basic 2022 (not Visual Studio Code):
 
 https://visualstudio.microsoft.com/downloads/
+Make sure to download this specific package if you are installing Visual Studio for the first time.
+![image](https://github.com/amalbiz/calendar/assets/72426926/91464f69-1e6e-411b-9fc8-bb54fcf7c955)
+
 
 I decided late that I wanted to add a GUI component and since I was limited to just C#, I had to change my plans so that's why my program may differ from my planning documents. Using Windows Forms and C#, I built a GUI for my code and it is different than the classes I had planned out because the way Windows Forms works is different than a regular console or terminal program. Thank you.
 
