@@ -10,8 +10,9 @@ https://visualstudio.microsoft.com/downloads/
 I decided late that I wanted to add a GUI component and since I was limited to just C#, I had to change my plans so that's why my program may differ from my planning documents. Using Windows Forms and C#, I built a GUI for my code and it is different than the classes I had planned out because the way Windows Forms works is different than a regular console or terminal program. Thank you.
 
 **To Run:**
+- Download the zipped file from GitHub.
 
-- Navigate to ...\amal-calendar\amal-calendar\bin\Debug\net6.0-windows\amal-calendar.exe
+- Navigate to ...\amal-calendar\amal-calendar\bin\Debug\net6.0-windows\amal-calendar.exe.
 
 - Run the .exe Application file.
 
