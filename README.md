@@ -3,7 +3,7 @@ Requirements to Run: .NET (Microsoft) 7.0:
 
 https://dotnet.microsoft.com/en-us/download
 
-Visual Basic 2022 (not Visual Studio Code):
+Visual Studio 2022 (not Visual Studio Code):
 
 https://visualstudio.microsoft.com/downloads/
 Make sure to download this specific package if you are installing Visual Studio for the first time.
